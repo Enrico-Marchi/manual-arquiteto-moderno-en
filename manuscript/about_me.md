@@ -26,7 +26,7 @@
 
 * **Name:** Karina Varela
 
-* **Job Title:** Senior Technical Product Marketing Manager, Red Hat
+* **Job Title:** Principal Technical Product Marketing Manager, Red Hat
 
 * **Bio:** Karina M. Varela has experienced more than ten years on I.T., working in roles like application developer, software architect, consultant, tech lead, and product marketing management. With a solid background in software development, she has professional expertise in planning, architecting, delivering, and troubleshooting critical software in enterprise environments of different sectors around the world. 
   By the time of 2020, Karina is working with the Application Services Business Unit in Red Hat, as a Technical Marketing Manager, an expert on the matter of Business Automation. She's a member of the Sou Java community, and passionate for helping the communities and especially fond of open-source projects and initiatives. Another hobby is to speak at conferences, therefore, she presented in conferences like Campus Party, TDC, and Women Who Code.
@@ -74,6 +74,8 @@
 * **Job Title:** Professor, Researcher at Federal University of ABC
 
 * **Bio:** Professor Isidro is a Computer Science professor and researcher focused on Programming Fundamentals Teaching, Game Engine Development and Cloud Computing. Isidro mantains a Youtbe channel offering free content about Data Structures, Operating Systems, Web Development, Games and other subjects to all professionals and students who want to improve their knowledge and understand Computer Science and Software Development fundamentals. Speaker at Campus Party, The Developer's Conference, QCon and other conferences, Isidro is always helping developer communities offering technical content and carrer mentoring.
+
+  {pagebreak}
 
 {width=60%}
 ![](images/autores__leandro.png)
